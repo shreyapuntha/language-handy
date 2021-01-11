@@ -4,8 +4,12 @@ The app is built for visually impaired people to let them know about what is aro
 Pytesseract and google tesseract ocr
 
 gtts
+
 speechrecognition
+
 Coco dataset
+
 opencv-python
+
 Kivymd
 
